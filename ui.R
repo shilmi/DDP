@@ -4,7 +4,7 @@ library(shiny)
 shinyUI(fluidPage(
 
   # Application title
-  titlePanel("Faithful Geyser eruptions"),
+  titlePanel("Eruptions of the Old Faithful"),
 
   # Sidebar with a slider input for the number of bins
   sidebarLayout(
