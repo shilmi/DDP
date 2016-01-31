@@ -10,6 +10,7 @@ shinyUI(fluidPage(
   sidebarLayout(
     sidebarPanel(
       h3("Old Faithful"),
+      h4("by - shlmi"),
       br(),
       p("Old Faithful is a cone geyser located in Wyoming, in Yellowstone National Park in the United States.
         Old Faithful was named in 1870 during the Washburn-Langford-Doane Expedition and was the first geyser in the park
